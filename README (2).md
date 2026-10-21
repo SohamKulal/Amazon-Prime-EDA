@@ -1,11 +1,11 @@
-# Amazon Prime EDA – Content Analysis Insights 🎯
+# Amazon Prime EDA – Content Analysis Insights 
 
 An in-depth Exploratory Data Analysis (EDA) project on Amazon Prime’s content catalog to uncover trends across genres, content types, IMDb ratings, actors, and runtime patterns. <br>
 This analysis helps identify strategic opportunities for content planning, production, and regional targeting.
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 
 - **Files Used:**
   - `titles.csv` – Contains metadata about shows/movies.
@@ -16,7 +16,7 @@ This analysis helps identify strategic opportunities for content planning, produ
 
 ---
 
-## 🧠 Business Objectives
+##  Business Objectives
 
 - Understand top-performing genres and focus areas.
 - Evaluate content by ratings, runtime, and casting.
@@ -26,7 +26,7 @@ This analysis helps identify strategic opportunities for content planning, produ
 
 ---
 
-## 🔍 Analysis & Insights
+##  Analysis & Insights
 
 - EDA: Uni, Bi & Multivariate
 - IMDb Scores vs Genre, Type, Age
@@ -43,7 +43,7 @@ Key Takeaways:
 
 ---
 
-## 📌 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
 - **Jupyter Notebook / Google Colab**
@@ -52,15 +52,13 @@ Key Takeaways:
 
 ---
 
-## 📈 Outcome
+##  Outcome
 
 This project delivers actionable insights to help Amazon Prime optimize its content curation, production, and regional expansion strategies using data-driven analysis.
 
 ---
 
-## 📬 Contact
 
-Created by **Sandhya** | [LinkedIn](https://www.linkedin.com/in/rana-sandhya)  
 For any queries or collaborations, feel free to connect.
 
 ---
