@@ -59,8 +59,3 @@ This project delivers actionable insights to help Amazon Prime optimize its cont
 ---
 
 
-For any queries or collaborations, feel free to connect.
-
----
-
-⭐ _If you found this helpful, Star the Repo!_
